@@ -5,7 +5,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="Codeigniter" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;
 <img alt="Node.js" title="Node.js" src="https://github.com/cheesits456/cheesits456/raw/master/icons/node.png" alt="NodeJS" width="50" height="50"/> &nbsp;
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/> &nbsp; 
 <img  src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="50" height="50"/>
