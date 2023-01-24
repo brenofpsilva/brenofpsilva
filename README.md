@@ -40,7 +40,7 @@ Trabalhei em algumas aplicações como gerenciamento de condomínios e gerencime
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>&nbsp;
 
 ## 🔗 Contate-me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-silva-090a0039/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenofpsilva/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:brenofpsilva@hotmail.com)](mailto:brenofpsilva@hotmail.com)
 
 
