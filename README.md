@@ -2,7 +2,7 @@
 
 <!--## 🚀 Sobre mim-->
 Sou desenvolvedor **full stack**, com mais de 5 anos de experiência em desenvolvimento **back-end** e 2 anos no **front-end**. 
-Trabalhei em algumas aplicações como gerenciamento de condomínios e gerencimento da situação do abastecimento de água. Atualmente estou desenvolvendo uma aplicação para o gerencimento de clínicas e consultorios médicos. Possuo sólidos conhecimentos em programação **OOP e PHP**, trabalho também com **Javascript(NodeJS e ReactJS/VueJS)**. Estudo desenvolvimento mobile com React Native. Tenho interesse em escalabilidade de aplicações, melhores práticas de desenvolvimento, TDD, BDD e tenho comprometimento para entregar os serviços/resultados, gosto de assumir desafios e funciono bem de forma independente e autônoma.
+Trabalhei em algumas aplicações como gerenciamento de condomínios e gerencimento da situação do abastecimento de água. Atualmente estou desenvolvendo uma aplicação própria para o gerencimento de clínicas e consultorios médicos. Possuo sólidos conhecimentos em programação **OOP e PHP**, trabalho também com **Javascript(NodeJS e ReactJS/VueJS)**. Estudo desenvolvimento mobile com React Native. Tenho interesse em escalabilidade de aplicações, melhores práticas de desenvolvimento, TDD, BDD e tenho comprometimento para entregar os serviços/resultados, gosto de assumir desafios e funciono bem de forma independente e autônoma.
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenofpsilva&show_icons=true&locale=en&layout=full&theme=ocean_dark&langs_count=8" alt="brenofpsilva" />  
 
