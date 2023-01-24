@@ -41,7 +41,7 @@ Trabalhei em algumas aplicações como gerenciamento de condomínios e gerencime
 
 ## 🔗 Contate-me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-silva-090a0039/)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:brenofpsilva@hotmail.com)](mailto:brenofpsilva@hotmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:brenofpsilva@hotmail.com)](mailto:brenofpsilva@hotmail.com)
 
 
 <!--
