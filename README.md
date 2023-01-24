@@ -1,8 +1,8 @@
 ### Olá pessoal 👋
 
+<!--
 <img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="600" height="300">
 
-<!--
 **brenofpsilva/brenofpsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
