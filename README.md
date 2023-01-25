@@ -1,4 +1,4 @@
-# Olá, eu sou Breno Silva! 👋
+# Muito prazer, meu nome é Breno Silva! 👋
 
 <!--## 🚀 Sobre mim-->
 Sou desenvolvedor **full stack**, com mais de 5 anos de experiência em desenvolvimento **back-end** e 2 anos no **front-end**. 
